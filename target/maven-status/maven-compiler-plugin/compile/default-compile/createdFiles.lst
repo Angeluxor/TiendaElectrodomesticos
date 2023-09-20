@@ -1,0 +1,7 @@
+me\tiendaelectrodomesticos\entities\Televisor.class
+me\tiendaelectrodomesticos\TiendaElectrodomesticos.class
+me\tiendaelectrodomesticos\services\TelevisorService.class
+me\tiendaelectrodomesticos\services\LavadoraService.class
+me\tiendaelectrodomesticos\entities\Lavadora.class
+me\tiendaelectrodomesticos\services\ElectrodomesticoService.class
+me\tiendaelectrodomesticos\entities\Electrodomestico.class
